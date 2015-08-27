@@ -6,7 +6,8 @@ var $blog;
 $(document).ready(function () {
 
   $.i18n.init({
-    lng: 'en'
+    lng: 'en',
+    preload: ['zh']
   }, function() {
     $('body').i18n();
   });
