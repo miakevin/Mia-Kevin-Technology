@@ -6,9 +6,9 @@ var $blog;
 $(document).ready(function () {
 
   $.i18n.init({
-    lng: 'en-US'
+    lng: 'en'
   }, function() {
-    $('.nav').i18n();
+    $('body').i18n();
   });
 
     // Show Animated Counters
