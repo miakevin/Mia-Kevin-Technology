@@ -1,0 +1,9 @@
+{
+  "nav": {
+    "home": "主页",
+    "about": "About",
+    "services": "Services",
+    "work": "Work",
+    "contact": "Contact"
+  }
+}
