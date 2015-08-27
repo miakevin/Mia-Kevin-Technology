@@ -8,7 +8,7 @@ $(document).ready(function () {
   $.i18n.init({
     lng: 'en-US'
   }, function() {
-    $.t('app.name');
+    $('.nav').i18n();
   });
 
     // Show Animated Counters
