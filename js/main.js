@@ -6,14 +6,13 @@ var $blog;
 $(document).ready(function () {
 
   $.i18n.init({
-    lng: 'en',
     preload: ['zh', 'en'],
     fallbackLng: []
   }, function() {
     $('body').i18n();
   });
 
-  $.i18n.setLng(lang, function(t) {$('body').i18n();});
+  // $.i18n.setLng(lang, function(t) {$('body').i18n();});
 
     // Show Animated Counters
     animatecounters();
