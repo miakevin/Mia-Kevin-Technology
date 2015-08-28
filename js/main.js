@@ -7,7 +7,7 @@ $(document).ready(function () {
 
   $.i18n.init({
     preload: ['zh', 'en'],
-    fallbackLng: []
+    fallbackLng: ['en']
   }, function() {
     $('body').i18n();
   });
