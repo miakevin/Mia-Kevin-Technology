@@ -8,11 +8,9 @@
   },
   "features": {
     "title": "About Mia Kevin Technology",
-    "elements": [
-      {
+    "element_1": {
         "title": "Customers First",
         "body": "We listen carefully to your needs and strategically plan around that."
-      }
-    ]
+    }
   }
 }
