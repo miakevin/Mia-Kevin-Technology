@@ -5,5 +5,14 @@
     "services": "服务",
     "work": "案例",
     "contact": "联系"
+  },
+  "features": {
+    "title": "关于Mia Kevin Technology",
+    "elements": [
+      {
+        "title": "顾客至上",
+        "body": "我们仔细聆听顾客的需求，然后提出周详的计划。"
+      }
+    ]
   }
 }

@@ -5,5 +5,14 @@
     "services": "Services",
     "work": "Work",
     "contact": "Contact"
+  },
+  "features": {
+    "title": "About Mia Kevin Technology",
+    "elements": [
+      {
+        "title": "Customers First",
+        "body": "We listen carefully to your needs and strategically plan around that."
+      }
+    ]
   }
 }
