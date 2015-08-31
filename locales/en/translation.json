@@ -11,6 +11,14 @@
     "element_1": {
         "title": "Customers First",
         "body": "We listen carefully to your needs and strategically plan around that."
+    },
+    "element_2": {
+        "title": "Affordable Price",
+        "body": "We believe that excellent service with competitve price = more customers."
+    },
+    "element_3": {
+        "title": "Fast Support",
+        "body": "We understand that waiting is frustrating. So, let's get right into it."
     }
   }
 }
