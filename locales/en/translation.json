@@ -4,7 +4,12 @@
     "about": "About",
     "services": "Services",
     "work": "Work",
-    "contact": "Contact"
+    "contact": "Contact",
+    "language": {
+      "title": "Language",
+      "chinese": "Chinese",
+      "english": "English"
+    }
   },
   "home": {
     "title": "A digital studio crafting beautiful experiences.",

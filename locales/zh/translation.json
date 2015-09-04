@@ -4,7 +4,12 @@
     "about": "关于",
     "services": "服务",
     "work": "案例",
-    "contact": "联系"
+    "contact": "联系",
+    "language": {
+      "title": "语言",
+      "chinese": "中文",
+      "english": "英文"
+    }
   },
   "home": {
     "title": "欢迎您来Mia Kevin Technology，享有温哥华一流的网站设计,品牌营销与智能家居服务。",
